@@ -1,73 +1,73 @@
+# 📊 Price Prediction System
 
-# Prices Predictor System
+## 🚀 Overview
 
-## Overview
+The **Price Prediction System** is an advanced machine learning project designed to predict property prices based on historical data. This system integrates data preprocessing, model training, evaluation, and deployment, making it a complete end-to-end solution.
 
-The **Prices Predictor System** is a machine learning-based project that predicts property prices using historical data. It includes data preprocessing, model training, and deployment capabilities.
+## ✨ Features
 
-## Features
+✅ Automated data extraction and preprocessing  
+✅ Robust model training and evaluation  
+✅ API-based prediction service for easy integration  
+✅ Deployment-ready scripts for quick setup  
+✅ Scalable and modular codebase for flexibility  
 
-- Data extraction and preprocessing
-- Model training and evaluation
-- API-based prediction service
-- Deployment scripts for easy setup
+---
 
-## Installation
+## 🛠 Installation
 
-### Prerequisites
+### 📌 Prerequisites
 
 - Python 3.x
-- pip
+- pip (Python package manager)
 - Virtual environment (optional but recommended)
 
-### Steps
+### 🔧 Setup Instructions
 
-1. Clone the repository:
-
+1️⃣ Clone the repository:
    ```bash
    git clone https://github.com/ayushh0406/Price-Prediction-System.git
-   cd prices-predictor-system
+   cd Price-Prediction-System
    ```
 
-2. Create and activate a virtual environment (optional):
-
+2️⃣ Create and activate a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. Install dependencies:
-
+3️⃣ Install required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-## Usage
+---
 
-1. Run the data pipeline:
+## 🚀 Usage
 
+▶️ Run the data pipeline:
    ```bash
    python run_pipeline.py
    ```
 
-2. Run the model deployment:
-
+▶️ Deploy the trained model:
    ```bash
    python run_deployment.py
    ```
 
-3. Test a sample prediction:
-
+▶️ Test a sample prediction:
    ```bash
    python sample_predict.py
    ```
 
-## Folder Structure
+---
+
+## 📁 Folder Structure
 
 ```
-prices-predictor-system/
+Price-Prediction-System/
 │-- extracted_data/           # Raw and processed datasets
-│-- explanations/             # Explanation scripts for design patterns
+│-- explanations/             # Documentation and design patterns
 │-- models/                   # Trained models
 │-- config.yaml               # Configuration file
 │-- requirements.txt          # Dependencies
@@ -76,14 +76,21 @@ prices-predictor-system/
 │-- sample_predict.py         # Sample prediction script
 ```
 
-## Contributing
+---
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a pull request
+## 🤝 Contributing
 
+🔹 Fork the repository  
+🔹 Create a new branch (`git checkout -b feature-branch`)  
+🔹 Commit your changes (`git commit -m 'Add new feature'`)  
+🔹 Push to the branch (`git push origin feature-branch`)  
+🔹 Open a pull request  
 
 ---
+
+
+
+
+
+🚀 **Happy Coding!** 🎯
 
