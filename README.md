@@ -1,4 +1,4 @@
-# 📊 Price Prediction System
+# 📊 Property Price Prediction System
 
 ## 🚀 Overview
 
